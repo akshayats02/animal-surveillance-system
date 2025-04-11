@@ -1,6 +1,6 @@
 # Intelligent Surveillance and Species Detection System
 
-A smart surveillance system designed to detect wild animals near farmland and alert users in real-time. This project uses *ESP32-CAM, **Raspberry Pi, and computer vision techniques such as **MobileNet, **Haar Cascade, and **CNN* to protect crops from damage caused by wildlife.
+A smart surveillance system designed to detect wild animals near farmland and alert users in real-time. This project uses ESP32-CAM, Raspberry Pi, and computer vision techniques such as MobileNet, Haar Cascade, and CNN to protect crops from damage caused by wildlife.
 
 ---
 
